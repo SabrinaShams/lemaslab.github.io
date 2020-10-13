@@ -12,10 +12,35 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 ### 2020
 
 <div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_COVID-19 Impacts Mental Health Outcomes and Ability/Desire to Participate in Research Among Current Reseach Participants._<br>Michelle I. Cardel, Stephanie Manasse, Rebecca A. Krukowski, Kathryn Ross, Rebecca Shakour, Darci R. Miller, Young‐Rock Hong, <strong>Lemas DJ</strong>.<br>Obesity Society. 2020.
+</div>
+<div class="col-sm-6">
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID: 32325370<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/oby.23016" alt="pubmed link: "> </a></li>
+        
+        <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/oby.23016" alt="PDF">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+
+        <li><a href="https://github.com/XinsongDu/FN_Mortality" alt="Code website">Code</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
 <div class="tip" markdown="1">_Predicting In-hospital Mortality of Patients with Febrile Neutropenia Using Machine Learning Models._<br>Du X, Min J, Shah CP, Bishnoi R, Hogan WR, <strong>Lemas DJ</strong>.<br>International Journal of Medical Informatics. 2020.
 </div>
 <div class="col-sm-6">
-    <img class="img-responsive" src="/images/publications/FN_20.png" alt="publication fig" style="max-height: 250px;">
+     <img class="img-responsive" src="/images/publications/FN_20.png" alt="publication fig" style="max-height: 250px;">
 </div>
 <ul class="col-sm-6">
         <br>
